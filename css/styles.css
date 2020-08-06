@@ -1,0 +1,52 @@
+body {
+  background-color: white; }
+
+.boton {
+  background-color: #E03B65 !important;
+  border: #E03B65 !important; }
+
+.logo-img {
+  margin-top: 45px; }
+
+.titulo {
+  margin: 30px; }
+
+.principal {
+  margin-top: 50px; }
+
+.paddingImg {
+  padding-top: 3em;
+  padding-right: 0;
+  margin-right: 0; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../tipografia/Roboto-Bold.ttf"); }
+
+.titulo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.8em;
+  color: black; }
+
+.parrafo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9em;
+  color: grey; }
+
+form {
+  font-family: 'Roboto', sans-serif; }
+  form label {
+    color: black; }
+  form select {
+    color: lightgray !important; }
+  form ::placeholder {
+    color: lightgray !important; }
+
+.logo-img {
+  width: 180px; }
+
+.imagen {
+  width: 75%; }
+
+.redondeado {
+  border-radius: 15px 30px 20px 30px; }

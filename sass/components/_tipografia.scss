@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../../tipografia/Roboto-Bold.ttf')
+}
+.titulo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8em;
+    color:black;
+}
+.parrafo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+    color:grey;
+}
+form{
+    font-family: 'Roboto', sans-serif;
+    label{
+        color:black;
+    }
+    select{
+        color:lightgray !important;
+    }
+    ::placeholder{
+        color:lightgray !important;
+    }
+}

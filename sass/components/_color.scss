@@ -1,0 +1,11 @@
+$colorPrincipal: white;
+$colorSecundario: #E03B65;
+
+body {
+    background-color: $colorPrincipal;
+}
+
+.boton{
+    background-color: $colorSecundario !important;
+    border: $colorSecundario !important;
+}
